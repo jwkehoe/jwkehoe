@@ -2,7 +2,7 @@
 - 👀 OCI, HeatWave, Machine Learning
 - 🌱 OCI Data Scince
 - 💞️ Oracle Cloud Infrastructure, MySQL HeatWave ML
-- 📫 Right here is fine otherwise j w kehoe@ sbglobal dot come
+- 📫 Right here is fine otherwise exoticproblemsolver @ gmail
 
 <!---
 jwkehoe/jwkehoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
