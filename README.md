@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kehoe
 - 🌱 14 year Oracle Solution Architect for MySQL GBU
-- 🌱 Years Oracle Perform tuning and APM (Precise,VERITAS, Symantec, Oracle)
+- 🌱 Years of Oracle Perform tuning and APM (Precise,VERITAS, Symantec, Oracle)
 - 👀 Advance MySQL HA/DR and MySQL Cluster Carrier Grade Editions
 - 👀 OCI, HeatWave, Machine Learning 
 - 💞️ Oracle Cloud Infrastructure, MySQL HeatWave ML
