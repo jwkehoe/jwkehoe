@@ -1,4 +1,5 @@
 - 👋 Hi, I’m John Kehoe
+
 I build software with AI, multi-agent reasoning systems, and predictive ML. Current work includes a stealth SaaS product, a standalone Python system for evaluating and improving AI reasoning, and an NFL predictor built from multiple inconsistent data sources.
 
 My data background includes database architecture, production performance recovery, and intelligence decision support. I have turned customer problems into software products, recovered failing systems, and reduced operating costs in commercial and high-consequence environments.
